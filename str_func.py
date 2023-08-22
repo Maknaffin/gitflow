@@ -1,5 +1,5 @@
-def upper_line(line):
+def upper_lower(line):
     '''
     Возвращает строку со всеми заглавными буквами
     '''
-    return line.upper()
+    return line.lower()
